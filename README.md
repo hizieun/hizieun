@@ -1,5 +1,5 @@
 ### 
-Hi👋 I'm an AI Engineer in Korea.
+Hi👋 I'm an AI Engineer in Korea since 2020.
 
 <!--
 **hizieun/hizieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
