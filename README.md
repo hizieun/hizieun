@@ -1,6 +1,5 @@
-### Hi👋 
-- My name is Ji Eun Kang.
-- I'm an AI Engineer in Korea.
+### 
+Hi👋 I'm an AI Engineer in Korea.
 
 <!--
 **hizieun/hizieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
