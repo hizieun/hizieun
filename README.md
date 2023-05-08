@@ -1,8 +1,7 @@
 ### 
 Hi👋 I'm an AI Engineer in Korea since 2020.
 
-![github-mark-white](https://user-images.githubusercontent.com/59240445/236716882-be61be30-aa6c-4c02-b2b9-57d87b81ba87.png) https://github.com/hizieun
-
+🛠 https://github.com/hizieun  
 💌 zieun.kang@gmail.com
 
 <!--
