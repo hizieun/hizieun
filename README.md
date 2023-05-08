@@ -1,6 +1,8 @@
 ### 
 Hi👋 I'm an AI Engineer in Korea since 2020.
 
+💌 zieun.kang@gmail.com
+
 <!--
 **hizieun/hizieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
