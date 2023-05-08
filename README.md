@@ -1,8 +1,8 @@
 ### 
 Hi👋 I'm an AI Engineer in Korea since 2020.
 
-🛠 https://github.com/hizieun
-💌 zieun.kang@gmail.com
+🛠 https://github.com/hizieun  
+💌 zieun.kang@gmail.com  
 
 <a href = "https://github.com/hizieun"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a>
