@@ -7,9 +7,11 @@ Hi👋 I'm an AI Engineer in Korea since 2020.
 <a href = "https://github.com/hizieun"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a>
 
+📜 Papers
+https://www.birpublications.org/doi/10.1259/dmfr.20230030
+
 💌 zieun.kang@gmail.com  
 🛠 https://github.com/hizieun  
-
 
 <!--
 **hizieun/hizieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
