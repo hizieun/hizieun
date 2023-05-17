@@ -9,6 +9,7 @@ Hi👋 I'm an AI Engineer in Korea since 2020.
 
 
 📜 Papers  
+The efficacy of supervised learning and semi-supervised learning in diagnosis of impacted third molar on panoramic radiographs through artificial intelligence model  
 https://www.birpublications.org/doi/10.1259/dmfr.20230030
 
 
