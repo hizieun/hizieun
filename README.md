@@ -12,7 +12,7 @@ Hi👋 I'm an AI Engineer in Korea since 2020.
 https://www.birpublications.org/doi/10.1259/dmfr.20230030
 
 
-✋ Profile
+✋ Profile  
 💌 zieun.kang@gmail.com  
 🛠 https://github.com/hizieun  
 
