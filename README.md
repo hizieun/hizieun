@@ -13,8 +13,9 @@ Hi👋 I'm an AI Engineer in Korea since 2020.
 
 
 ✋ **Profile**  
-💌 zieun.kang@gmail.com  
-🛠 https://github.com/hizieun  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com) zieun.kang@gmail.com  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) www.linkedin.com/in/jekang9475  
+
 
 <!--
 **hizieun/hizieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
