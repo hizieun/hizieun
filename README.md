@@ -12,8 +12,10 @@
 
 
 📜 **Papers**  
+2023.5.16
 [The efficacy of supervised learning and semi-supervised learning in diagnosis of impacted third molar on panoramic radiographs through artificial intelligence model](https://www.birpublications.org/doi/10.1259/dmfr.20230030)
 
+2023.12.15
 [Application of entire dental panorama image data in artificial intelligence model for age estimation](https://link.springer.com/article/10.1186/s12903-023-03745-x?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231215&utm_content=10.1186/s12903-023-03745-x)
 
 <!--
